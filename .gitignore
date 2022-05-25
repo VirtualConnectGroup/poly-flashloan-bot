@@ -112,3 +112,6 @@ dist
 !.yarn/versions
 
 lib
+
+Environmental
+.env
